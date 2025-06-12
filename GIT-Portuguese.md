@@ -2,9 +2,7 @@
 
 # 📋Note:
 	
-	Este es mi primer acercamiento con el portugues por lo que inicialmente para familiarsarme con los sonidos y palabras he tomado un curso de linkedin Learning con frases basicas. Posteriormentes ire compartiendo mas recursos y el procesos de aprendizaje.
-
-
+	Este es mi primer acercamiento con el portugués por lo que inicialmente para familiarsarme con los sonidos y palabras he tomado un curso de LinkedIn Learning con frases básicas. Posteriormente iré compartiendo más recursos y el proceso de aprendizaje.
 
 # 🔗Referencias:
 
