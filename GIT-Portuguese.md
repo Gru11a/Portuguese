@@ -6,8 +6,6 @@
 
 # 🔗Referencias:
 
-Este es el link al curso de linkedIn Learning.
-
 [Portuguese for Absolute Beginners](https://www.linkedin.com/learning-login/share?forceAccount=false&redirect=https%3A%2F%2Fwww.linkedin.com%2Flearning%2Fportuguese-for-absolute-beginners%3Ftrk%3Dshare_ent_url%26shareId%3D7lcs%252BwB9Rj6ZzxBpMK7AXw%253D%253D)
 
 # Frases
