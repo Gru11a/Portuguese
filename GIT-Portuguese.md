@@ -90,6 +90,8 @@ Você fala português? Sim, eu falo português.
 	
 	¿Hablas portugués? Sí, hablo portugués.
 
+# 0:10 
+
 Você é brasileiro? Sim, eu sou. 
 	
 	¿Eres brasileño? Sí, lo soy.
@@ -181,6 +183,8 @@ Ana Carolina, o que você tem lá? Lá onde?
 Desculpa, o que você tem aí? Ah, eu tenho algo azul aqui. 
 	
 	Disculpa, ¿qué tienes ahí? Ah, tengo algo azul aquí.
+
+# 0:10
 
 É um caderno? Eu tenho algo branco. É loção? É sim. 
 	
